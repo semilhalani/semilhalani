@@ -6,7 +6,7 @@ My background spans building end-to-end data systems: ETL pipelines, scoring eng
 
 **Currently:**
 - Building out a US equity screening & scoring engine on Google Apps Script: ETL, peer benchmarking, and a custom execution engine to work around platform limits
-- Working as a Contract Software Engineer at Grow Infinity Labs (an early-stage AI/fintech startup), shipping an LLM-integrated market-commentary feature and auditing an undocumented algorithmic trading platform
+- Working as a AI/ML Software Engineer at Grow Infinity Labs (an early-stage AI/fintech startup), shipping an LLM-integrated market-commentary feature and auditing an undocumented algorithmic trading platform
 
 ---
 

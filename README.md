@@ -3,7 +3,7 @@
 AI and data engineer with an MSc in Computer Science from Queen Mary University of London. I build generative AI features where wrong output is expensive, and data pipelines that keep running when sources fail.
 
 **Currently:**
-- Working as a Software Engineer at Grow Infinity Labs (an early-stage AI and fintech startup). I shipped a production generative AI market-commentary feed, built n8n monitoring workflows with SHA-256 integrity checks and an AWS S3 export pipeline, and audited an undocumented algorithmic trading platform
+- Working as a Software Engineer at Grow Infinity Labs on a client's fintech platform. I shipped a production generative AI market-commentary feed, built n8n monitoring workflows with SHA-256 integrity checks and an AWS S3 export pipeline, and audited an undocumented algorithmic trading platform
 - Building a US equity screening system: an ETL and scoring engine on Google Apps Script covering 5,300+ tickers, plus a Python earnings scraper running on GitHub Actions
 
 ---
